@@ -3739,7 +3739,7 @@ MonoBehaviour:
   m_RedDoor: {fileID: 2086659613}
   m_BlueDoor: {fileID: 1100644174}
   m_YellowDoor: {fileID: 2016186823}
-  m_Cheater: 0
+  m_Cheater: 1
   greenSceneName: green_world
   redSceneName: red_world
   blueSceneName: blue_world
